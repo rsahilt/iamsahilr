@@ -212,6 +212,16 @@ section{
 	width: 264px;
 	height: 370px;
 }
+.viewallimg{
+	color: black;
+	font-size: 22px;
+	text-align: center;
+	line-height: 370px;
+	background-color: red;
+}
+.viewallimg:hover{
+	color: darkslateblue;
+}
 .pre-btn,
 .nxt-btn {
   border: none;
